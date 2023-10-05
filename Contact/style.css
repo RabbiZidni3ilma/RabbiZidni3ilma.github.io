@@ -8,14 +8,14 @@
 }
 ::selection{
   color: #fff;
-  background: #4db2ec;
+  background: #e8f6fc;
 }
 body{
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4db2ec;
+  background: #e8f6fc;
 }
 .wrapper{
   max-width: 485px;
